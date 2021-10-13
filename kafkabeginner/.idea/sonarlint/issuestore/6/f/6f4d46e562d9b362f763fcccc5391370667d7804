@@ -1,0 +1,17 @@
+
+>
+java:S1170"!Make this final field static too.(ÕóŠ8úä¤ûÆ/
+v
+java:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(À¯€¼8•ªßûÆ/
+ˆ
+java:S1488W"fImmediately return this expression instead of assigning it to the temporary variable "hosebirdClient".(Ÿı¤¼üÿÿÿÿ8ëõÍûÆ/
+C
+java:S1170"!Make this final field static too.(ìä¹†øÿÿÿÿ8úä¤ûÆ/
+c
+java:S21428"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¬“ïûÆ/
+C
+java:S1170"!Make this final field static too.(¸¡ìÿÿÿÿÿ8úä¤ûÆ/
+—
+java:S1186!"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹Ÿ®Ê
+=
+java:S1170"!Make this final field static too.(‡Ó 8úä¤ûÆ/
