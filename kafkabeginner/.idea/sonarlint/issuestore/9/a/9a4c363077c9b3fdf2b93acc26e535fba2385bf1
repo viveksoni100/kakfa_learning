@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦é“§
+n
+java:S1104"RMake logger a static final constant or non-public and provide accessors if needed.(çİç8Ù£ÓõÇ/
+s
+java:S1104"VMake jsonParser a static final constant or non-public and provide accessors if needed.(İ®¥ß8†öÅõÇ/
+M
+java:S1444"0Make this "public static jsonParser" field final(İ®¥ß8†öÅõÇ/
+H
+java:S1444",Make this "public static logger" field final(çİç8Ù£ÓõÇ/

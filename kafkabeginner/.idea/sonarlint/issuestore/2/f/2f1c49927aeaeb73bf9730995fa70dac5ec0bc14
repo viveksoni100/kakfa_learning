@@ -1,9 +1,9 @@
 
 a
 java:S2095$"KUse try-with-resources or close this "KafkaConsumer" in a "finally" clause.(ûåžâ
+\
+java:S34579"AFormat specifiers should be used instead of string concatenation.(Ú»Êþøÿÿÿÿ
 w
 java:S26299"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Ú»Êþøÿÿÿÿ
 o
 java:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûåžâ
-\
-java:S34579"AFormat specifiers should be used instead of string concatenation.(Ú»Êþøÿÿÿÿ

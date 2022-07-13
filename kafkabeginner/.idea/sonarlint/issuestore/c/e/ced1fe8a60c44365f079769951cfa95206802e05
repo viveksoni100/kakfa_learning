@@ -1,9 +1,9 @@
 
->
-java:S1604""(Make this anonymous inner class a lambda( ­Ç÷
 n
 java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ýî¥J
-o
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶“·»
 \
 java:S3457'"AFormat specifiers should be used instead of string concatenation.(¨í«úÿÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶“·»
+>
+java:S1604""(Make this anonymous inner class a lambda( ­Ç÷

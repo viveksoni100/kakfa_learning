@@ -37,4 +37,6 @@ I couldn't get enough of this
 Hello Vivek, You are the best Software Engineer ever born on this planet!
 This is way too far cool!!!
 
+bin/connect-standalone.sh /home/viveksoni100/GIT_REPO/kakfa_learning/kafkabeginner/kafka-connect/connectors/connect-standalone.properties /home/viveksoni100/GIT_REPO/kakfa_learning/kafkabeginner/kafka-connect/connectors/twitter.properties
+
 

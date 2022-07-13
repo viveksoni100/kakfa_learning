@@ -1,0 +1,21 @@
+
+_
+java:S1854K"=Remove this useless assignment to local variable "responses".(¾á¸’ûÿÿÿÿ8«ïòÇ/
+J
+java:S1604}"(Make this anonymous inner class a lambda(¸òµùÿÿÿÿ8Ìé“òÇ/
+]	java:S125B"<This block of commented-out lines of code should be removed.(Ù…ê•ıÿÿÿÿ8èª¬òÇ/
+Y
+java:S26294"7Use the built-in formatting to construct this argument.(ãÓ¥Òúÿÿÿÿ8ËØ›òÇ/
+c
+java:S34574"AFormat specifiers should be used instead of string concatenation.(ãÓ¥Òúÿÿÿÿ8‹ñáğÇ/
+
+java:S1488„"^Immediately return this expression instead of assigning it to the temporary variable "client".(³Ò”Øúÿÿÿÿ8Ìé“òÇ/
+]	java:S125R"<This block of commented-out lines of code should be removed.(¤ÖÁ¯ûÿÿÿÿ8Ìé“òÇ/
+P
+java:S1481K".Remove this unused "responses" local variable.(¾á¸’ûÿÿÿÿ8«ïòÇ/
+v
+java:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûåâ8Ìé“òÇ/
+c
+java:S3457E"AFormat specifiers should be used instead of string concatenation.(á¯äşÿÿÿÿ8·Š­òÇ/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢Ş´ùÿÿÿÿ
+]	java:S1259"<This block of commented-out lines of code should be removed.(Î‚ıÙÿÿÿÿÿ8üê ğÇ/

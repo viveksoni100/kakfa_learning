@@ -1,22 +1,6 @@
 
 7
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
-i
-9src/main/java/com/vivek/kafka/tutorial1/ProducerDemo.java,7/2/72eae6b9daa4383754c5630c91eb450bbba76446
-u
-Esrc/main/java/com/vivek/kafka/tutorial1/ProducerDemoWithCallback.java,2/a/2a538e692a985889e5b501567f21f3d960b982e8
-q
-Asrc/main/java/com/vivek/kafka/tutorial1/ProducerDemoWithKeys.java,2/a/2a4bf8317a8194238ac33cb05f011a3e40597f12
-o
-?src/main/java/com/vivek/kafka/tutorial1/ConsumerDemoGroups.java,b/b/bbb36cc9b7405e569bed8c1452c3bdbd9501e340
-s
-Csrc/main/java/com/vivek/kafka/tutorial1/ConsumerDemoWithThread.java,2/7/27396cd49969aad00fa7815cb2edfd037bff884b
-i
-9src/main/java/com/vivek/kafka/tutorial1/ConsumerDemo.java,0/b/0ba5b7f9caae601193668e8bc85db0daaa5d102a
-s
-Csrc/main/java/com/vivek/kafka/tutorial1/ConsumerDemoAssignSeek.java,8/7/87216a3112c985586f087c78806ca272c498c524
-l
-<src/main/java/com/vivek/kafka/tutorial2/TwitterProducer.java,6/f/6f4d46e562d9b362f763fcccc5391370667d7804
 r
 Bkafka-basics/src/main/java/kafka/tutorial1/ConsumerDemoGroups.java,f/9/f9bd1357ba8dabb5b406cbf7141eedcd19dc8c86
 l
@@ -37,3 +21,11 @@ l
 <kafka-basics/src/main/java/kafka/tutorial1/ProducerDemo.java,1/8/18adb7347b3e44f77229b047c6d8a7964e32eaf2
 x
 Hkafka-basics/src/main/java/kafka/tutorial1/ProducerDemoWithCallback.java,c/e/ced1fe8a60c44365f079769951cfa95206802e05
+T
+$kafka-consumer-elasticsearch/pom.xml,7/a/7a579b30ae8bbf4ad33b51f9c62b684c55a6a6ca
+S
+#kafka-streams-filter-tweets/pom.xml,9/8/98c2be7ed0cf846c2e73b1307e19f2f47cd41fb1
+
+Okafka-consumer-elasticsearch/src/main/java/tutorial3/ElasticSearchConsumer.java,6/5/65bd1166bc6aa78a8586fd6cc6ee9e02a9380c10
+|
+Lkafka-streams-filter-tweets/src/main/java/tutorial4/StreamsFilterTweets.java,9/a/9a4c363077c9b3fdf2b93acc26e535fba2385bf1
